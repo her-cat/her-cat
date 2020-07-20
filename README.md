@@ -2,7 +2,7 @@
 
 ### Hello 👋
 
-🌱 I’m currently learning Network programming.
+🌱 I’m currently learning C language and network programming.
 
 China Shenzhen・🕹Web developer
 
