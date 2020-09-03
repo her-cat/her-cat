@@ -2,7 +2,8 @@
 
 ### Hello 👋
 
-🌱 I’m currently learning C language and network programming.
+- 🌱 I’m currently learning C language and network programming.
+- 📫 How to reach me: i@her-cat.com
 
 China Shenzhen・🕹Web developer
 
