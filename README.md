@@ -8,6 +8,6 @@
 China Shenzhen・🕹Web developer
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=her-cat&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=her-cat&hide_title=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=her-cat&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=her-cat&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;">
 </p>
