@@ -2,7 +2,7 @@
 
 ### Hello 👋
 
-- 🌱 I’m currently learning C language and network programming.
+- 🌱 I’m learning the source code of redis basic data structure.
 - 📫 How to reach me: i@her-cat.com
 
 China Shenzhen・🕹Web developer
